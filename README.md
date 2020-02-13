@@ -1,2 +1,2 @@
 # DigitalAnalogClock
-A Real time working Digital Clock showing PST time.
+A Javascript based Real time working Digital Clock showing PST time.
